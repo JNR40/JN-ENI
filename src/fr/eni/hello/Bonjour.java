@@ -1,5 +1,7 @@
 package fr.eni.hello;
 
+//test JN
+
 import java.util.Scanner;
 
 public class Bonjour {
